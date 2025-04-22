@@ -1,0 +1,20 @@
+(land mass|biggest|largest){e<=1} .* (country){e<=1}
+(language|speak|spoken){e<=1} .* (quebec){e<=1}
+(year|when){e<=1} .* (canada){e<=1} .* (country|founded){e<=1}
+(capital){e<=1} .* (quebec){e<=1}
+(anthem|national song){e<=1} .* (canada){e<=1}
+(when|date){e<=1} .* (canada day){e<=1}
+(province){e<=1} .* (toronto|home to){e<=1}
+(leaf){e<=1} .* (flag|canadian flag){e<=1}
+(food|largest producer){e<=1} .* (canada){e<=1}
+(color|colour){e<=1} .* (sand|beaches|prince edward island|pei){e<=1}
+(sport|national sport|official sport){e<=1} .* (winter|canada){e<=1}
+(width|how wide){e<=1} .* (lake ontario){e<=1}
+(only official bilingual province|bilingual){e<=1} .* (canada){e<=1}
+(how many){e<=1} .* (provinces|canada){e<=1}
+(day|when){e<=1} .* (thanksgiving|canada){e<=1}
+(how many){e<=1} .* (time zones|canada){e<=1}
+(highest mountain|tallest mountain){e<=1} .* (canada|province|territory){e<=1}
+(capital city|capital of){e<=1} .* (canada){e<=1}
+(capital city|capital of){e<=1} .* (yukon){e<=1}
+(flag){e<=1} .* (leaf|tree){e<=1}
